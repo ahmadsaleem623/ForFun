@@ -1,4 +1,4 @@
 # ForFun
 ;)
 
-calc-divide
+calc-divide.
